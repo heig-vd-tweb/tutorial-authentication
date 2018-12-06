@@ -40,7 +40,8 @@ cd ./client && yarn install
 1. Start the api by running the following  
 
 ```
-
+cd ./api && yarn dev
+cd ./client && yarn start
 ```
 
 
