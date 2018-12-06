@@ -33,7 +33,7 @@ cd ./client && yarn install
 
 ### Run the App
 
-1. Start the api by running the following command:  
+1. Start the API by running the following command:  
 
 ```
 cd ./api
