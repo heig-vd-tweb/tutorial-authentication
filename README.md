@@ -11,11 +11,9 @@ if you prefer a step-by-step guide, you  can watch the following video tutorials
 
 
 
-
-
 ## Quick start
 
-This project contains to seperated applications 
+This project contains two seperated applications 
 
 - `/client` - A React project bootstrap with create-react-app
 
@@ -24,7 +22,7 @@ This project contains to seperated applications
 
 ### Set up
 
-1. Use the following command to Install the `/api` and `/client` packages 
+1. Use the following commands to Install the `/api` and `/client` packages 
 
 ```
 cd ./api && yarn install
@@ -33,16 +31,19 @@ cd ./client && yarn install
 
 2. Set local environment configuration in a `.env ` file.
 
-
-
 ### Run the App
 
-1. Start the api by running the following  
+1. Start the api by running the following command:  
 
 ```
-cd ./api && yarn dev
-cd ./client && yarn start
+cd ./api
+yarn dev
 ```
 
+2. Start the client app by running the following command:
 
+```
+cd ./client
+yarn start
+```
 
