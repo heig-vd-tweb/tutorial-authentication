@@ -15,9 +15,9 @@ if you prefer a step-by-step guide, you  can watch the following video tutorials
 
 This project contains two seperated applications 
 
-- `/client` - A React project bootstrap with create-react-app
+- `/client` - a React project bootstrapped with [create-react-app](https://github.com/facebook/create-react-app)
 
-- `/api` - An express.js API server
+- `/api` - an [Express.js](http://expressjs.com) server
 
 
 ### Set up
