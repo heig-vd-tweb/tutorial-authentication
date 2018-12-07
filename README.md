@@ -2,7 +2,7 @@
 
 This project is an example of how to setup authentication and authorization into an express and react app. 
 
-if you prefer a step-by-step guide, you  can watch the following video tutorials:
+If you prefer a step-by-step guide, you can watch the following video tutorials:
 
 - [Authentication (1) : Setup Express.js](https://youtu.be/ah_1BavtnGw)
 - [Authentication (2): Node.js and jsonwebtoken](https://youtu.be/GglTvLVFXDU)
@@ -22,7 +22,7 @@ This project contains two seperated applications
 
 ### Set up
 
-1. Use the following commands to Install the `/api` and `/client` packages 
+1. Use the following commands to install the API and client app packages 
 
 ```
 cd ./api && yarn install
